@@ -10,8 +10,8 @@ youtube-dl
 
 # ../../config.py
 MUSIC_CHATS = [
-    -1001158319567,
-    -1001158319567
+    -1001484341988,
+    -1001484341988
 ]
 MUSIC_USERS = [1234567890]
 MUSIC_DELAY_DELETE_INFORM = 10
@@ -48,7 +48,7 @@ REGEX_EXCLUDE_URL = (
 
 def get_music_chats():
     chats = []
-    for x in os.environ["-1001158319567"].split(" "):
+    for x in os.environ["-1001484341988"].split(" "):
         try:
             chats.append(int(x))
         except ValueError:
