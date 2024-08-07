@@ -59,7 +59,7 @@ def get_music_chats():
 MUSIC_CHATS = get_music_chats()
 API_ID = "9501538"
 API_HASH = "adb8864f52095ff4ca53e847a9250dac"
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "5731759386:AAFvipV6sGM8XmOJQAT6v4U80YiRwENah_s"
 app = Client(
     "tgmusicbot",
     api_id=API_ID,
