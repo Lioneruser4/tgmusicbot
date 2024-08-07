@@ -49,7 +49,7 @@ REGEX_EXCLUDE_URL = (
 def get_music_chats():
     chats = "-1001484341988"
         # Koda devam edin
-else:
+
     print("Değişken mevcut değil")
 
         try:
